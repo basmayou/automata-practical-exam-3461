@@ -28,14 +28,14 @@ Three Python implementations of formal language automata:
 ## Turing Machine Simulator
 Simulates a TM for language L = {0ⁿ1ⁿ0ⁿ1ⁿ | n ≥ 1}
 
-#### How to Run
+### How to Run
 1. Run the Python script
 2. Choose an option:
    - `1` for pre-defined examples
    - `2` to enter your own string
    - `3` to run test cases
 
-#### Testing
+### Testing
 - The script includes unittest test cases
 - To run tests: Select option `3` or run directly with:
   ```bash
@@ -54,14 +54,14 @@ Simulates a TM for language L = {0ⁿ1ⁿ0ⁿ1ⁿ | n ≥ 1}
 - Interactive menu system
 - Comprehensive test cases
 
-#### How to Run
+### How to Run
 1. Run the Python script
 2. Choose an option:
    - `1` for pre-defined examples
    - `2` to enter your own string
    - `3` to run test cases
 
-#### Testing
+### Testing
 - The script includes unittest test cases
 - To run tests: Select option `3` or run directly with:
   ```bash
@@ -79,9 +79,9 @@ Simulates a TM for language L = {0ⁿ1ⁿ0ⁿ1ⁿ | n ≥ 1}
   - Concatenation
 - String acceptance testing
 
-#### How to Run
+### How to Run
 1. Run the Python script
 
-#### Prerequisites
+### Prerequisites
 ```bash
 pip install pyformlang
